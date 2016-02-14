@@ -1,0 +1,32 @@
+New Alamo Code YouTube Channel
+                    https://www.youtube.com/channel/UC2x3skRLAwUX55p5VoAeAPw
+Invite to the Alamo Code Slack Channel
+                    http://bit.ly/acl-slack-invite
+
+Setup
+Chapter 0:          http://learnpythonthehardway.org/book/ex0.html
+Download Python:    https://www.python.org/downloads/
+
+Zed Shaw & "The Hard Way"
+                    https://twitter.com/zedshaw
+                    http://learnpythonthehardway.org/book/
+                    http://www.codenewbie.org/podcast/the-hard-way
+
+The Command Line
+                    http://cli.learncodethehardway.org/book/
+
+Alternatives
+PyCharm             http://www.jetbrains.com/pycharm/
+PythonAnywhere 
+video               https://www.youtube.com/watch?v=NH2PhXYvrWs
+Cloud 9             https://c9.io/
+
+Ex01
+                    https://github.com/alamo-code-learners/lpthw
+
+
+
+
+Other Links
+Python Programming
+                    https://www.youtube.com/watch?v=N4mEzFDjqtA
